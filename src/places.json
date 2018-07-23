@@ -1,0 +1,38 @@
+[
+  {
+    "name": "National Forum of Music",
+    "type": "Philharmonic Hall",
+    "lat": 51.1086047,
+    "lon": 17.0268456
+  },
+  {
+    "name": "Wrocław Town Hall",
+    "type": "City or Town Hall",
+    "lat": 51.108169,
+    "lon": 17.0283712
+  },
+  {
+    "name": "Fair Market (Bazaar)",
+    "type": "Shopping Mall",
+    "lat": 51.1078888,
+    "lon": 17.0279249
+  },
+  {
+    "name": "Spiż",
+    "type": "Restaurant",
+    "lat": 51.1099497,
+    "lon": 17.0312445
+  },
+  {
+    "name": "Let Me Out Escape Room",
+    "type": "Tourist Attraction",
+    "lat": 51.1101426,
+    "lon": 17.0386722
+  },
+  {
+    "name": "Słodowa Island",
+    "type": "Island",
+    "lat": 51.1160612,
+    "lon": 17.0352794
+  }
+]
