@@ -1,38 +1,38 @@
 [
-  {
-    "name": "National Forum of Music",
-    "type": "Philharmonic Hall",
-    "lat": 51.1086047,
-    "lon": 17.0268456
-  },
-  {
-    "name": "Wrocław Town Hall",
-    "type": "City or Town Hall",
-    "lat": 51.108169,
-    "lon": 17.0283712
-  },
-  {
-    "name": "Fair Market (Bazaar)",
-    "type": "Shopping Mall",
-    "lat": 51.1078888,
-    "lon": 17.0279249
-  },
-  {
-    "name": "Spiż",
-    "type": "Restaurant",
-    "lat": 51.1099497,
-    "lon": 17.0312445
-  },
-  {
-    "name": "Let Me Out Escape Room",
-    "type": "Tourist Attraction",
-    "lat": 51.1101426,
-    "lon": 17.0386722
-  },
-  {
-    "name": "Słodowa Island",
-    "type": "Island",
-    "lat": 51.1160612,
-    "lon": 17.0352794
-  }
-]
+    {
+      "name": "Cukiernia Królewska",
+      "type": "Candy store",
+      "latitude": 51.1086047,
+      "longitude": 17.0268456
+    },
+    {
+      "name": "Europeum Hotel Wroclaw",
+      "type": "Hotel",
+      "latitude": 51.108169,
+      "longitude": 17.0283712
+    },
+    {
+      "name": "Fitness Academy",
+      "type": "Gym",
+      "latitude": 51.0940264,
+      "longitude": 17.0199173
+    },
+    {
+      "name": "Spiż",
+      "type": "Restaurant",
+      "latitude": 51.1099497,
+      "longitude": 17.0312445
+    },
+    {
+      "name": "Stary Klasztor",
+      "type": "Restaurant",
+      "latitude": 51.1101426,
+      "longitude": 17.0386722
+    },
+    {
+      "name": "Barbarkad",
+      "type": "Bar",
+      "latitude": 51.1160612,
+      "longitude": 17.0352794
+    }
+  ]

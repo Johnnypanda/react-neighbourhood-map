@@ -4,9 +4,56 @@ body {
   font-family: sans-serif;
 }
 
-.list-area {
-  position:absolute;
-  top: 6px;
-  left: 6px;
-  z-index: 2; 
+.search {
+  z-index: 1;
+  position: fixed;
+  top: 5px;
+  left: 5px;
 }
+
+
+.search-area {
+  font-size: 1.1em;
+  text-align: left;
+  position: absolute;
+  height: 100%;
+  width: 25%;
+  overflow: auto;
+  left: 0;
+  top: 0;
+  z-index: 2;
+  background-color: rgba(0, 172, 230, 0.9);
+  opacity: 0.9;
+}
+
+
+.search-input {
+  width: 100%;
+  padding: 3px;
+  font-size: 1.3em;
+  font-family: Arial, sans-serif;
+}
+
+.places-list {
+  padding: 0;
+}
+
+.place {
+  font-family: Arial, sans-serif;
+  padding: 5px;
+  font-size: 1em;
+  color:#e6fff2;
+  cursor: pointer;
+  list-style-type: none;
+  transition: color 0.3s ease; 
+}
+
+.place:hover {
+  color:#000000;  
+}
+
+#map {
+  width: 75%;
+  float: right;
+}
+
